@@ -1,4 +1,4 @@
-export class Routes{
-    static status = '/status';
-    static register = '/register';
+export class Routes {
+	static status = '/status';
+	static register = '/register';
 }

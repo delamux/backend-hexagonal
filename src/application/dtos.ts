@@ -1,9 +1,9 @@
 export interface UserRegistrationRequest {
-    email: string;
-    password: string;
+	email: string;
+	password: string;
 }
 
 export type UserRegistrationResponse = {
-    id: string;
-    email: string;
-}
+	id: string;
+	email: string;
+};
